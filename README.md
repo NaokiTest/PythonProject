@@ -1,2 +1,3 @@
-# PythonProject
-A project for demonstrating Python usage
+# My Python Project
+
+This is a sample Python project.
